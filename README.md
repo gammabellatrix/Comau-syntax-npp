@@ -9,7 +9,6 @@ Now the list comprehend a lot of entries, some of them are for old controller ve
 Please inform me if you find some keyword that is not correctly highlighed.
 
 "COMAU_Syntax_PDL.xml" is for plain text code file .pdl
-
 "COMAU_Syntax_LSV.xml" is for plain text variables file .lsv
 
 
