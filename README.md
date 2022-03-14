@@ -1,5 +1,5 @@
 # Comau-syntax-npp
-### Syntax highlighting of Comau robot language PDL2 for Notepad++
+###### Syntax highlighting of Comau robot language PDL2 for Notepad++
 
 Being tired of the old style, black and white, not zoomable text editor application from Comau (WinC4G, WinC5G, WinR1C, ...)
 I decided to develop my own syntax highlighting fro Notepad++.
