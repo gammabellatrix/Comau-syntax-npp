@@ -8,9 +8,9 @@ Step by step I included all the built-in, system variables and other keywords I 
 Now the list comprehend a lot of entries, some of them are for old controller versions (WinC5G) and are not used by the new versions (WinR1C).
 Please inform me if you find some keyword that is not correctly highlighed.
 
-"COMAU_Syntax_PDL.xml" is for plain text code file .pdl
+- "COMAU_Syntax_PDL.xml" is xml for plain text code file .pdl
 
-"COMAU_Syntax_LSV.xml" is for plain text variables file .lsv
+- "COMAU_Syntax_LSV.xml" is for plain text variables file .lsv
 
 
 
